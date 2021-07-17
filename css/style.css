@@ -1,0 +1,14 @@
+section{
+	min-height: 300px;
+	background-color: pink;
+}
+.container{
+	min-height: 295px;
+	border: 2px solid gold;
+}
+.box{
+	min-height: 200px;
+	border: 2px solid red;
+	font-size: 30px;
+	background-color: aqua;
+}
